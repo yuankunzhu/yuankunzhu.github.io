@@ -1,0 +1,81 @@
+DBSNP_INS_DEL_RATIO	The Insertion/Deletion ratio of the indel calls made at dbSNP sites
+DBSNP_TITV	The Transition/Transversion ratio of the passing bi-allelic SNP calls made at dbSNP sites
+NOVEL_INDELS	The number of passing indels called that were not found in dbSNP
+NOVEL_INS_DEL_RATIO	The Insertion/Deletion ratio of the indel calls made at non-dbSNP sites
+NOVEL_SNPS	The number of passing bi-allelic SNPS called that were not found in dbSNP
+NOVEL_TITV	The Transition/Transversion ratio of the passing bi-allelic SNP calls made at non-dbSNP sites
+NUM_IN_DB_SNP	The number of passing bi-allelic SNPs found in dbSNP
+NUM_IN_DB_SNP_COMPLEX_INDELS	The number of passing complex indels found in dbSNP
+NUM_IN_DB_SNP_INDELS	The number of passing indels found in dbSNP
+NUM_IN_DB_SNP_MULTIALLELIC	The number of passing multi-allelic SNPs found in dbSNP
+NUM_SINGLETONS	For summary metrics, the number of variants that appear in only one sample.
+PCT_DBSNP	The fraction of passing bi-allelic SNPs in dbSNP
+PCT_DBSNP_INDELS	The fraction of passing indels in dbSNP
+SNP_REFERENCE_BIAS	The rate at which reference bases are observed at ref/alt heterozygous SNP sites.
+TOTAL_COMPLEX_INDELS	The number of passing complex indel calls that were examined
+TOTAL_INDELS	The number of passing indel calls that were examined
+TOTAL_MULTIALLELIC_SNPS	The number of passing multi-allelic SNP calls that were examined
+TOTAL_SNPS	The number of passing bi-allelic SNPs calls
+MAD_COVERAGE	The median absolute deviation of coverage of the genome after all filters are applied.
+MEAN_COVERAGE	The mean coverage in bases of the genome territory, after all filters are applied.
+MEDIAN_COVERAGE	The median coverage in bases of the genome territory, after all filters are applied.
+PCT_1X	The fraction of bases that attained at least 1X sequence coverage in post-filtering bases.
+PCT_100X	The fraction of bases that attained at least 100X sequence coverage in post-filtering bases.
+PCT_10X	The fraction of bases that attained at least 10X sequence coverage in post-filtering bases.
+PCT_15X	The fraction of bases that attained at least 15X sequence coverage in post-filtering bases.
+PCT_20X	The fraction of bases that attained at least 20X sequence coverage in post-filtering bases.
+PCT_25X	The fraction of bases that attained at least 25X sequence coverage in post-filtering bases.
+PCT_30X	The fraction of bases that attained at least 30X sequence coverage in post-filtering bases.
+PCT_40X	The fraction of bases that attained at least 40X sequence coverage in post-filtering bases.
+PCT_50X	The fraction of bases that attained at least 50X sequence coverage in post-filtering bases.
+PCT_5X	The fraction of bases that attained at least 5X sequence coverage in post-filtering bases.
+PCT_60X	The fraction of bases that attained at least 60X sequence coverage in post-filtering bases.
+PCT_70X	The fraction of bases that attained at least 70X sequence coverage in post-filtering bases.
+PCT_80X	The fraction of bases that attained at least 80X sequence coverage in post-filtering bases.
+PCT_90X	The fraction of bases that attained at least 90X sequence coverage in post-filtering bases.
+PCT_EXC_BASEQ	The fraction of aligned bases that were filtered out because they were of low base quality (default is < 20).
+PCT_EXC_CAPPED	The fraction of aligned bases that were filtered out because they would have raised coverage above the capped value (default cap = 250x).
+PCT_EXC_DUPE	The fraction of aligned bases that were filtered out because they were in reads marked as duplicates.
+PCT_EXC_MAPQ	The fraction of aligned bases that were filtered out because they were in reads with low mapping quality (default is < 20).
+PCT_EXC_OVERLAP	The fraction of aligned bases that were filtered out because they were the second observation from an insert with overlapping reads.
+PCT_EXC_TOTAL	The total fraction of aligned bases excluded due to all filters.
+PCT_EXC_UNPAIRED	The fraction of aligned bases that were filtered out because they were in reads without a mapped mate pair.
+SD_COVERAGE	The standard deviation of coverage of the genome after all filters are applied.
+TOTAL_READS	The total number of reads including all PF and non-PF reads. When CATEGORY equals PAIR this value will be 2x the number of clusters.
+PF_READS	The number of PF reads where PF is defined as passing Illumina's filter.
+PF_READS_ALIGNED	The number of PF reads that were aligned to the reference sequence. This includes reads that aligned with low quality (i.e. their alignments are ambiguous).
+PCT_PF_READS_ALIGNED	The percentage of PF reads that aligned to the reference sequence. PF_READS_ALIGNED / PF_READS
+PF_ALIGNED_BASES	The total number of aligned bases, in all mapped PF reads, that are aligned to the reference sequence.
+PF_HQ_ALIGNED_READS	The number of PF reads that were aligned to the reference sequence with a mapping quality of Q20 or higher signifying that the aligner estimates a 1/100 (or smaller) chance that the alignment is wrong.
+PF_HQ_ALIGNED_BASES	The number of bases aligned to the reference sequence in reads that were mapped at high quality. Will usually approximate PF_HQ_ALIGNED_READS * READ_LENGTH but may differ when either mixed read lengths are present or many reads are aligned with gaps.
+PF_HQ_ALIGNED_Q20_BASES	The subset of PF_HQ_ALIGNED_BASES where the base call quality was Q20 or higher.
+PF_MISMATCH_RATE	The rate of bases mismatching the reference for all bases aligned to the reference sequence.
+PF_HQ_ERROR_RATE	The fraction of bases that mismatch the reference in PF HQ aligned reads.
+PF_INDEL_RATE	The number of insertion and deletion events per 100 aligned bases. Uses the number of events as the numerator, not the number of inserted or deleted bases.
+MEAN_READ_LENGTH	The mean read length of the set of reads examined. When looking at the data for a single lane with equal length reads this number is just the read length. When looking at data for merged lanes with differing read lengths this is the mean read length of all reads.
+READS_ALIGNED_IN_PAIRS	The number of aligned reads whose mate pair was also aligned to the reference.
+PCT_READS_ALIGNED_IN_PAIRS	The fraction of reads whose mate pair was also aligned to the reference. READS_ALIGNED_IN_PAIRS / PF_READS_ALIGNED
+PF_READS_IMPROPER_PAIRS	The number of (primary) aligned reads that are **not** "properly" aligned in pairs (as per SAM flag 0x2).
+PCT_PF_READS_IMPROPER_PAIRS	The fraction of (primary) reads that are *not* "properly" aligned in pairs (as per SAM flag 0x2). PF_READS_IMPROPER_PAIRS / PF_READS_ALIGNED
+STRAND_BALANCE	The number of PF reads aligned to the positive strand of the genome divided by the number of PF reads aligned to the genome.
+PCT_CHIMERAS	The fraction of reads that map outside of a maximum insert size (usually 100kb) or that have the two ends mapping to different chromosomes.
+PCT_ADAPTER	The fraction of PF reads that are unaligned and match to a known adapter sequence
+READS	Total # of reads loaded from the BAM file
+AVG_DP	Average sequencing depth at the sites in the VCF file
+FREEMIX	Sequence-only estimate of contamination (0-1 scale)
+FREELK1	Maximum log-likelihood of the sequence reads given estimated contamination under sequence-only method
+FREELK0	Log-likelihood of the sequence reads given no contamination under sequence-only method
+HET_SNP_Q	The Phred Scaled Q Score of the theoretical HET SNP sensitivity.
+HET_SNP_SENSITIVITY	The theoretical HET SNP sensitivity.
+MEDIAN_INSERT_SIZE	The MEDIAN insert size of all paired end reads where both ends mapped to the same chromosome.
+MEDIAN_ABSOLUTE_DEVIATION	The median absolute deviation of the distribution. If the distribution is essentially normal then the standard deviation can be estimated as ~1.4826 * MAD.
+MIN_INSERT_SIZE	The minimum measured insert size. This is usually 1 and not very useful as it is likely artifactual.
+MAX_INSERT_SIZE	The maximum measure insert size by alignment. This is usually very high representing either an artifact or possibly the presence of a structural re-arrangement.
+MEAN_INSERT_SIZE	The mean insert size of the "core" of the distribution. Artefactual outliers in the distribution often cause calculation of nonsensical mean and stdev values. To avoid this the distribution is first trimmed to a "core" distribution of +/- N median absolute deviations around the median insert size. By default N=10, but this is configurable.
+STANDARD_DEVIATION	Standard deviation of insert sizes over the "core" of the distribution.
+READ_PAIRS	The total number of read pairs that were examined in the entire distribution.
+HET_HOMVAR_RATIO	(count of hets)/(count of homozygous non-ref) for this sample
+PCT_GQ0_VARIANTS	The percentage of variants in a particular sample that have a GQ score of 0.
+TOTAL_GQ0_VARIANTS	The total number of variants in a particular sample that have a GQ score of 0.
+TOTAL_HET_DEPTH	total number of reads (from AD field) for passing bi-allelic SNP hets for this sample
+MODE_INSERT_SIZE	The MODE insert size of all paired end reads where both ends mapped to the same chromosome

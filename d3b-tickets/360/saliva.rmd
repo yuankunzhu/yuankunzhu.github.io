@@ -1,0 +1,332 @@
+---
+title: "cbttc saliva data quality"
+output:   
+  html_notebook: 
+    toc: true
+    toc_depth: 3
+    toc_float:
+      collapsed: true
+---
+
+## key metrics
+| TOTAL_READS               | FREEMIX (contamination) | 
+|---------------------------|-------------------------| 
+| ![](plot/TOTAL_READS.png) | ![](plot/FREEMIX.png)   | 
+
+| MEAN_COVERAGE               | MEAN_INSERT_SIZE               | 
+|-----------------------------|--------------------------------| 
+| ![](plot/MEAN_COVERAGE.png) | ![](plot/MEAN_INSERT_SIZE.png) | 
+
+| TOTAL_SNPS               | TOTAL_INDELS               | 
+|--------------------------|----------------------------| 
+| ![](plot/TOTAL_SNPS.png) | ![](plot/TOTAL_INDELS.png) | 
+
+
+## main diff metrics
+- All reads and depth related metrics:
+    - lower in salive, due to fewer reads
+- `MODE_INSERT_SIZE`
+    - The MODE insert size of all paired end reads where both ends mapped to the same chromosome
+    - lower in salive; something wrong with the insert size distribution
+- `PCT_EXC_MAPQ`
+    - The fraction of aligned bases that were filtered out because they were in reads with low mapping quality
+    - higher in salive; mapping quality is genernally worse
+- `NOVEL_TITV`
+    - The Transition/Transversion ratio of the passing bi-allelic SNP calls made at non-dbSNP sites
+    - higher FP for novel variant, need a more stringent tranche sensitivity value. `DBSNP_TITV` looks ok
+
+
+| MODE_INSERT_SIZE               | PCT_EXC_MAPQ               | NOVEL_TITV               | 
+|--------------------------------|----------------------------|--------------------------| 
+| ![](plot/MODE_INSERT_SIZE.png) | ![](plot/PCT_EXC_MAPQ.png) | ![](plot/NOVEL_TITV.png) | 
+
+
+## igv
+
+## fastqc
+
+## other metrics
+### AVG_DP
+**Average sequencing depth at the sites in the VCF file**
+![AVG_DP](plot/AVG_DP.png)
+
+### DBSNP_INS_DEL_RATIO
+**The Insertion/Deletion ratio of the indel calls made at dbSNP sites**
+![DBSNP_INS_DEL_RATIO](plot/DBSNP_INS_DEL_RATIO.png)
+
+### DBSNP_TITV
+**The Transition/Transversion ratio of the passing bi-allelic SNP calls made at dbSNP sites**
+![DBSNP_TITV](plot/DBSNP_TITV.png)
+
+### FREELK0
+**Log-likelihood of the sequence reads given no contamination under sequence-only method**
+![FREELK0](plot/FREELK0.png)
+
+### FREELK1
+**Maximum log-likelihood of the sequence reads given estimated contamination under sequence-only method**
+![FREELK1](plot/FREELK1.png)
+
+### HET_HOMVAR_RATIO
+**(count of hets)/(count of homozygous non-ref) for this sample**
+![HET_HOMVAR_RATIO](plot/HET_HOMVAR_RATIO.png)
+
+### HET_SNP_Q
+**The Phred Scaled Q Score of the theoretical HET SNP sensitivity.**
+![HET_SNP_Q](plot/HET_SNP_Q.png)
+
+### HET_SNP_SENSITIVITY
+**The theoretical HET SNP sensitivity.**
+![HET_SNP_SENSITIVITY](plot/HET_SNP_SENSITIVITY.png)
+
+### MAD_COVERAGE
+**The median absolute deviation of coverage of the genome after all filters are applied.**
+![MAD_COVERAGE](plot/MAD_COVERAGE.png)
+
+### MAX_INSERT_SIZE
+**The maximum measure insert size by alignment. This is usually very high representing either an artifact or possibly the presence of a structural re-arrangement.**
+![MAX_INSERT_SIZE](plot/MAX_INSERT_SIZE.png)
+
+### MEAN_READ_LENGTH
+**The mean read length of the set of reads examined. When looking at the data for a single lane with equal length reads this number is just the read length. When looking at data for merged lanes with differing read lengths this is the mean read length of all reads.**
+![MEAN_READ_LENGTH](plot/MEAN_READ_LENGTH.png)
+
+### MEDIAN_ABSOLUTE_DEVIATION
+**The median absolute deviation of the distribution. If the distribution is essentially normal then the standard deviation can be estimated as ~1.4826 * MAD.**
+![MEDIAN_ABSOLUTE_DEVIATION](plot/MEDIAN_ABSOLUTE_DEVIATION.png)
+
+### MEDIAN_COVERAGE
+**The median coverage in bases of the genome territory, after all filters are applied.**
+![MEDIAN_COVERAGE](plot/MEDIAN_COVERAGE.png)
+
+### MEDIAN_INSERT_SIZE
+**The MEDIAN insert size of all paired end reads where both ends mapped to the same chromosome.**
+![MEDIAN_INSERT_SIZE](plot/MEDIAN_INSERT_SIZE.png)
+
+### MIN_INSERT_SIZE
+**The minimum measured insert size. This is usually 1 and not very useful as it is likely artifactual.**
+![MIN_INSERT_SIZE](plot/MIN_INSERT_SIZE.png)
+
+### NOVEL_INDELS
+**The number of passing indels called that were not found in dbSNP**
+![NOVEL_INDELS](plot/NOVEL_INDELS.png)
+
+### NOVEL_INS_DEL_RATIO
+**The Insertion/Deletion ratio of the indel calls made at non-dbSNP sites**
+![NOVEL_INS_DEL_RATIO](plot/NOVEL_INS_DEL_RATIO.png)
+
+### NOVEL_SNPS
+**The number of passing bi-allelic SNPS called that were not found in dbSNP**
+![NOVEL_SNPS](plot/NOVEL_SNPS.png)
+
+### NUM_IN_DB_SNP
+**The number of passing bi-allelic SNPs found in dbSNP**
+![NUM_IN_DB_SNP](plot/NUM_IN_DB_SNP.png)
+
+### NUM_IN_DB_SNP_COMPLEX_INDELS
+**The number of passing complex indels found in dbSNP**
+![NUM_IN_DB_SNP_COMPLEX_INDELS](plot/NUM_IN_DB_SNP_COMPLEX_INDELS.png)
+
+### NUM_IN_DB_SNP_INDELS
+**The number of passing indels found in dbSNP**
+![NUM_IN_DB_SNP_INDELS](plot/NUM_IN_DB_SNP_INDELS.png)
+
+### NUM_IN_DB_SNP_MULTIALLELIC
+**The number of passing multi-allelic SNPs found in dbSNP**
+![NUM_IN_DB_SNP_MULTIALLELIC](plot/NUM_IN_DB_SNP_MULTIALLELIC.png)
+
+### NUM_SINGLETONS
+**For summary metrics, the number of variants that appear in only one sample.**
+![NUM_SINGLETONS](plot/NUM_SINGLETONS.png)
+
+### PCT_100X
+**The fraction of bases that attained at least 100X sequence coverage in post-filtering bases.**
+![PCT_100X](plot/PCT_100X.png)
+
+### PCT_10X
+**The fraction of bases that attained at least 10X sequence coverage in post-filtering bases.**
+![PCT_10X](plot/PCT_10X.png)
+
+### PCT_15X
+**The fraction of bases that attained at least 15X sequence coverage in post-filtering bases.**
+![PCT_15X](plot/PCT_15X.png)
+
+### PCT_1X
+**The fraction of bases that attained at least 1X sequence coverage in post-filtering bases.**
+![PCT_1X](plot/PCT_1X.png)
+
+### PCT_20X
+**The fraction of bases that attained at least 20X sequence coverage in post-filtering bases.**
+![PCT_20X](plot/PCT_20X.png)
+
+### PCT_25X
+**The fraction of bases that attained at least 25X sequence coverage in post-filtering bases.**
+![PCT_25X](plot/PCT_25X.png)
+
+### PCT_30X
+**The fraction of bases that attained at least 30X sequence coverage in post-filtering bases.**
+![PCT_30X](plot/PCT_30X.png)
+
+### PCT_40X
+**The fraction of bases that attained at least 40X sequence coverage in post-filtering bases.**
+![PCT_40X](plot/PCT_40X.png)
+
+### PCT_50X
+**The fraction of bases that attained at least 50X sequence coverage in post-filtering bases.**
+![PCT_50X](plot/PCT_50X.png)
+
+### PCT_5X
+**The fraction of bases that attained at least 5X sequence coverage in post-filtering bases.**
+![PCT_5X](plot/PCT_5X.png)
+
+### PCT_60X
+**The fraction of bases that attained at least 60X sequence coverage in post-filtering bases.**
+![PCT_60X](plot/PCT_60X.png)
+
+### PCT_70X
+**The fraction of bases that attained at least 70X sequence coverage in post-filtering bases.**
+![PCT_70X](plot/PCT_70X.png)
+
+### PCT_80X
+**The fraction of bases that attained at least 80X sequence coverage in post-filtering bases.**
+![PCT_80X](plot/PCT_80X.png)
+
+### PCT_90X
+**The fraction of bases that attained at least 90X sequence coverage in post-filtering bases.**
+![PCT_90X](plot/PCT_90X.png)
+
+### PCT_ADAPTER
+**The fraction of PF reads that are unaligned and match to a known adapter sequence**
+![PCT_ADAPTER](plot/PCT_ADAPTER.png)
+
+### PCT_CHIMERAS
+**The fraction of reads that map outside of a maximum insert size (usually 100kb) or that have the two ends mapping to different chromosomes.**
+![PCT_CHIMERAS](plot/PCT_CHIMERAS.png)
+
+### PCT_DBSNP
+**The fraction of passing bi-allelic SNPs in dbSNP**
+![PCT_DBSNP](plot/PCT_DBSNP.png)
+
+### PCT_DBSNP_INDELS
+**The fraction of passing indels in dbSNP**
+![PCT_DBSNP_INDELS](plot/PCT_DBSNP_INDELS.png)
+
+### PCT_EXC_BASEQ
+**The fraction of aligned bases that were filtered out because they were of low base quality (default is < 20).**
+![PCT_EXC_BASEQ](plot/PCT_EXC_BASEQ.png)
+
+### PCT_EXC_CAPPED
+**The fraction of aligned bases that were filtered out because they would have raised coverage above the capped value (default cap = 250x).**
+![PCT_EXC_CAPPED](plot/PCT_EXC_CAPPED.png)
+
+### PCT_EXC_DUPE
+**The fraction of aligned bases that were filtered out because they were in reads marked as duplicates.**
+![PCT_EXC_DUPE](plot/PCT_EXC_DUPE.png)
+
+### PCT_EXC_OVERLAP
+**The fraction of aligned bases that were filtered out because they were the second observation from an insert with overlapping reads.**
+![PCT_EXC_OVERLAP](plot/PCT_EXC_OVERLAP.png)
+
+### PCT_EXC_TOTAL
+**The total fraction of aligned bases excluded due to all filters.**
+![PCT_EXC_TOTAL](plot/PCT_EXC_TOTAL.png)
+
+### PCT_EXC_UNPAIRED
+**The fraction of aligned bases that were filtered out because they were in reads without a mapped mate pair.**
+![PCT_EXC_UNPAIRED](plot/PCT_EXC_UNPAIRED.png)
+
+### PCT_GQ0_VARIANTS
+**The percentage of variants in a particular sample that have a GQ score of 0.**
+![PCT_GQ0_VARIANTS](plot/PCT_GQ0_VARIANTS.png)
+
+### PCT_PF_READS_ALIGNED
+**The percentage of PF reads that aligned to the reference sequence. PF_READS_ALIGNED / PF_READS**
+![PCT_PF_READS_ALIGNED](plot/PCT_PF_READS_ALIGNED.png)
+
+### PCT_PF_READS_IMPROPER_PAIRS
+**The fraction of (primary) reads that are *not* "properly" aligned in pairs (as per SAM flag 0x2). PF_READS_IMPROPER_PAIRS / PF_READS_ALIGNED**
+![PCT_PF_READS_IMPROPER_PAIRS](plot/PCT_PF_READS_IMPROPER_PAIRS.png)
+
+### PCT_READS_ALIGNED_IN_PAIRS
+**The fraction of reads whose mate pair was also aligned to the reference. READS_ALIGNED_IN_PAIRS / PF_READS_ALIGNED**
+![PCT_READS_ALIGNED_IN_PAIRS](plot/PCT_READS_ALIGNED_IN_PAIRS.png)
+
+### PF_ALIGNED_BASES
+**The total number of aligned bases, in all mapped PF reads, that are aligned to the reference sequence.**
+![PF_ALIGNED_BASES](plot/PF_ALIGNED_BASES.png)
+
+### PF_HQ_ALIGNED_BASES
+**The number of bases aligned to the reference sequence in reads that were mapped at high quality. Will usually approximate PF_HQ_ALIGNED_READS * READ_LENGTH but may differ when either mixed read lengths are present or many reads are aligned with gaps.**
+![PF_HQ_ALIGNED_BASES](plot/PF_HQ_ALIGNED_BASES.png)
+
+### PF_HQ_ALIGNED_Q20_BASES
+**The subset of PF_HQ_ALIGNED_BASES where the base call quality was Q20 or higher.**
+![PF_HQ_ALIGNED_Q20_BASES](plot/PF_HQ_ALIGNED_Q20_BASES.png)
+
+### PF_HQ_ALIGNED_READS
+**The number of PF reads that were aligned to the reference sequence with a mapping quality of Q20 or higher signifying that the aligner estimates a 1/100 (or smaller) chance that the alignment is wrong.**
+![PF_HQ_ALIGNED_READS](plot/PF_HQ_ALIGNED_READS.png)
+
+### PF_HQ_ERROR_RATE
+**The fraction of bases that mismatch the reference in PF HQ aligned reads.**
+![PF_HQ_ERROR_RATE](plot/PF_HQ_ERROR_RATE.png)
+
+### PF_INDEL_RATE
+**The number of insertion and deletion events per 100 aligned bases. Uses the number of events as the numerator, not the number of inserted or deleted bases.**
+![PF_INDEL_RATE](plot/PF_INDEL_RATE.png)
+
+### PF_MISMATCH_RATE
+**The rate of bases mismatching the reference for all bases aligned to the reference sequence.**
+![PF_MISMATCH_RATE](plot/PF_MISMATCH_RATE.png)
+
+### PF_READS
+**The number of PF reads where PF is defined as passing Illumina's filter.**
+![PF_READS](plot/PF_READS.png)
+
+### PF_READS_ALIGNED
+**The number of PF reads that were aligned to the reference sequence. This includes reads that aligned with low quality (i.e. their alignments are ambiguous).**
+![PF_READS_ALIGNED](plot/PF_READS_ALIGNED.png)
+
+### PF_READS_IMPROPER_PAIRS
+**The number of (primary) aligned reads that are **not** "properly" aligned in pairs (as per SAM flag 0x2).**
+![PF_READS_IMPROPER_PAIRS](plot/PF_READS_IMPROPER_PAIRS.png)
+
+### READS_ALIGNED_IN_PAIRS
+**The number of aligned reads whose mate pair was also aligned to the reference.**
+![READS_ALIGNED_IN_PAIRS](plot/READS_ALIGNED_IN_PAIRS.png)
+
+### READ_PAIRS
+**The total number of read pairs that were examined in the entire distribution.**
+![READ_PAIRS](plot/READ_PAIRS.png)
+
+### SD_COVERAGE
+**The standard deviation of coverage of the genome after all filters are applied.**
+![SD_COVERAGE](plot/SD_COVERAGE.png)
+
+### SNP_REFERENCE_BIAS
+**The rate at which reference bases are observed at ref/alt heterozygous SNP sites.**
+![SNP_REFERENCE_BIAS](plot/SNP_REFERENCE_BIAS.png)
+
+### STANDARD_DEVIATION
+**Standard deviation of insert sizes over the "core" of the distribution.**
+![STANDARD_DEVIATION](plot/STANDARD_DEVIATION.png)
+
+### STRAND_BALANCE
+**The number of PF reads aligned to the positive strand of the genome divided by the number of PF reads aligned to the genome.**
+![STRAND_BALANCE](plot/STRAND_BALANCE.png)
+
+### TOTAL_COMPLEX_INDELS
+**The number of passing complex indel calls that were examined**
+![TOTAL_COMPLEX_INDELS](plot/TOTAL_COMPLEX_INDELS.png)
+
+### TOTAL_GQ0_VARIANTS
+**The total number of variants in a particular sample that have a GQ score of 0.**
+![TOTAL_GQ0_VARIANTS](plot/TOTAL_GQ0_VARIANTS.png)
+
+### TOTAL_HET_DEPTH
+**total number of reads (from AD field) for passing bi-allelic SNP hets for this sample**
+![TOTAL_HET_DEPTH](plot/TOTAL_HET_DEPTH.png)
+
+
+### TOTAL_MULTIALLELIC_SNPS
+**The number of passing multi-allelic SNP calls that were examined**
+![TOTAL_MULTIALLELIC_SNPS](plot/TOTAL_MULTIALLELIC_SNPS.png)

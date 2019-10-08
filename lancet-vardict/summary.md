@@ -19,3 +19,5 @@
 | Nr. of data points | 109.00      | 897.00       | 75.00         | 897.00        |
 
 ![](./cost.png)
+
+[data.tsv](./data.tsv)

@@ -1,3 +1,7 @@
+- [data.tsv](./data.tsv)
+- [get-cost.py](./get-cost.py)
+
+
 | runtime            | Lancet_PNOC | Lancet_CBTTC | Varidict_PNOC | Vardict_CBTTC |
 | ------------------ | ----------- | ------------ | ------------- | ------------- |
 | Upper whisker      | 31.64       | 55.92        | 23.68         | 145.18        |
@@ -19,5 +23,3 @@
 | Nr. of data points | 109.00      | 897.00       | 75.00         | 897.00        |
 
 ![](./cost.png)
-
-[data.tsv](./data.tsv)

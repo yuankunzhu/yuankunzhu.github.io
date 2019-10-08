@@ -7,7 +7,7 @@
 | Lower whisker      | 1.97        | 2.71         | 0.60          | 6.79          |
 | Nr. of data points | 109.00      | 897.00       | 75.00         | 897.00        |
 
-![](./runtime.png)
+![](./time.png)
 
 | cost               | Lancet_PNOC | Lancet_CBTTC | Varidict_PNOC | Vardict_CBTTC |
 | ------------------ | ----------- | ------------ | ------------- | ------------- |

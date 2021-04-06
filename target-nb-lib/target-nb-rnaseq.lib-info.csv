@@ -1,0 +1,320 @@
+file_name,read_group_id,library_selection,library_strand
+537216c6-4d20-42f5-b191-7e6c10cafbe7.rna_seq.genomic.gdc_realn.bam,75fc4dec-dc76-4af3-8979-c2d06a52950a,Poly-T Enrichment,
+537216c6-4d20-42f5-b191-7e6c10cafbe7.rna_seq.genomic.gdc_realn.bam,8c059ba1-e1f4-4d41-b20e-585900d18bf1,Other,N/A
+80304b6d-45f9-4210-9a2a-dee958cf32c4.rna_seq.genomic.gdc_realn.bam,5f9fead6-3566-43c7-9dae-230c09b6e621,Other,N/A
+80304b6d-45f9-4210-9a2a-dee958cf32c4.rna_seq.genomic.gdc_realn.bam,e3c85f50-2bfd-47fa-ac98-26fe88d46541,Poly-T Enrichment,
+e9bec6fd-6a37-4f07-b396-2c960be6e9ef.rna_seq.genomic.gdc_realn.bam,4559bd4f-6433-44d1-91d8-dec23a0ffe33,Other,N/A
+e9bec6fd-6a37-4f07-b396-2c960be6e9ef.rna_seq.genomic.gdc_realn.bam,8f7cafa4-4303-4416-92c8-63cae4e80b25,Poly-T Enrichment,
+97fff753-780b-4c1f-9b30-bad1335259cf.rna_seq.genomic.gdc_realn.bam,fd2c5776-08f3-43eb-b25d-8b1051df9db9,Other,N/A
+97fff753-780b-4c1f-9b30-bad1335259cf.rna_seq.genomic.gdc_realn.bam,628d5bcb-3def-4c01-a417-f4b0425d94c8,Poly-T Enrichment,
+3a89e015-441c-4c22-9b73-55cdd2a42e09.rna_seq.genomic.gdc_realn.bam,5b4b0338-7be4-45af-9f69-753e0e8ea78b,Other,N/A
+3a89e015-441c-4c22-9b73-55cdd2a42e09.rna_seq.genomic.gdc_realn.bam,8df889aa-0ea4-469d-b50a-d185df00e7b3,Poly-T Enrichment,
+c3a5381d-b2a6-4c92-9e1d-c23f306d481d.rna_seq.genomic.gdc_realn.bam,ee4ef049-c119-40e2-a37f-780887c34b4c,Other,N/A
+c3a5381d-b2a6-4c92-9e1d-c23f306d481d.rna_seq.genomic.gdc_realn.bam,3635ca82-3f22-4c7a-801b-71d8e6f3c9c2,Poly-T Enrichment,
+9c00ffb8-be7c-402a-b15b-84334cedb250.rna_seq.genomic.gdc_realn.bam,096e7dc9-dd96-4d77-9119-50083ce211e5,Poly-T Enrichment,
+9c00ffb8-be7c-402a-b15b-84334cedb250.rna_seq.genomic.gdc_realn.bam,b2b64048-3b5b-4663-bf8d-117fa7dbedcb,Other,N/A
+645b2b83-b0ff-471f-a49d-fd8d64ed8f39.rna_seq.genomic.gdc_realn.bam,83b5cb3e-3edd-46b2-97d1-ddc86ce16283,Poly-T Enrichment,
+645b2b83-b0ff-471f-a49d-fd8d64ed8f39.rna_seq.genomic.gdc_realn.bam,db41d86e-fcdc-4772-935f-84c233eeab45,Other,N/A
+f51efd9f-3820-49ce-b69d-2fe1c10728c9.rna_seq.genomic.gdc_realn.bam,f77864b5-9dba-4f0a-8583-0930ec09173b,Other,N/A
+f51efd9f-3820-49ce-b69d-2fe1c10728c9.rna_seq.genomic.gdc_realn.bam,eec10af1-6f5d-40c4-b0cf-f5481c86b001,Poly-T Enrichment,
+900db067-2678-4231-ae8b-3e153efede5a.rna_seq.genomic.gdc_realn.bam,b12993cc-ade4-452f-93f8-7e0528446c18,Other,N/A
+900db067-2678-4231-ae8b-3e153efede5a.rna_seq.genomic.gdc_realn.bam,5109a948-3036-46bd-a6a6-8bb4b7b42ad5,Poly-T Enrichment,
+d4322d18-5cca-4934-8090-ffe533635078.rna_seq.genomic.gdc_realn.bam,b14a4852-793e-4f0b-b40f-341e65bba90a,Poly-T Enrichment,
+d4322d18-5cca-4934-8090-ffe533635078.rna_seq.genomic.gdc_realn.bam,17632008-83d2-4364-9358-697837e7482f,Other,N/A
+f17ed345-3ff9-4c55-92b2-e99e05b953c5.rna_seq.genomic.gdc_realn.bam,bb1994f2-a72f-4f50-8efd-ef04ac2d216d,Poly-T Enrichment,
+f17ed345-3ff9-4c55-92b2-e99e05b953c5.rna_seq.genomic.gdc_realn.bam,2f31eacc-8454-4d20-b6ce-dd1acfa8f68e,Other,N/A
+9bb9d403-745f-4618-bf2e-129bdd6856f8.rna_seq.genomic.gdc_realn.bam,954a9030-cd7e-4307-bbe5-81592abc110d,Poly-T Enrichment,
+9bb9d403-745f-4618-bf2e-129bdd6856f8.rna_seq.genomic.gdc_realn.bam,f9c71f2f-6d65-4851-8398-bbed0d2277bd,Other,N/A
+dcc291dd-a7d6-4279-a653-aa0baf83e68f.rna_seq.genomic.gdc_realn.bam,88ed5546-6015-4292-a3f6-fcfa089d068b,Poly-T Enrichment,
+dcc291dd-a7d6-4279-a653-aa0baf83e68f.rna_seq.genomic.gdc_realn.bam,cee6b859-d7ce-4c59-99f2-d84c14480b80,Other,N/A
+520f9326-44f5-45b9-9624-4574416339ec.rna_seq.genomic.gdc_realn.bam,e5831caf-ee04-4a90-8868-b79434490b0c,Other,N/A
+520f9326-44f5-45b9-9624-4574416339ec.rna_seq.genomic.gdc_realn.bam,e54f702e-e4d2-492f-9915-faaef414e3a9,Poly-T Enrichment,
+e5b48e72-8cd6-40af-adf1-fc4993b220ae.rna_seq.genomic.gdc_realn.bam,19cec682-c51f-4ee4-8f00-f17eca191463,Poly-T Enrichment,
+e5b48e72-8cd6-40af-adf1-fc4993b220ae.rna_seq.genomic.gdc_realn.bam,894654e6-85eb-41e7-9043-a6282c0f499f,Other,N/A
+fb34f974-8d1d-4c0d-bba9-697c9bffc90f.rna_seq.genomic.gdc_realn.bam,a472243c-f1c6-46aa-81e7-17974a449ae6,Poly-T Enrichment,
+fb34f974-8d1d-4c0d-bba9-697c9bffc90f.rna_seq.genomic.gdc_realn.bam,ad47d02d-fbb0-4602-99ad-d0291ba1729a,Other,N/A
+e987c0b1-de3c-473d-b85a-fc41ac14507d.rna_seq.genomic.gdc_realn.bam,6638e13c-ebca-49d3-b48e-72b3659ad6bb,Other,N/A
+e987c0b1-de3c-473d-b85a-fc41ac14507d.rna_seq.genomic.gdc_realn.bam,e03d2de4-a124-4df0-b0dd-43863ca43fb1,Poly-T Enrichment,
+91370cc2-c4ad-41b2-b635-d1d1173da553.rna_seq.genomic.gdc_realn.bam,e59763d1-78ce-4555-99df-6f6bcdf42d89,Other,N/A
+91370cc2-c4ad-41b2-b635-d1d1173da553.rna_seq.genomic.gdc_realn.bam,6af3b1d0-4ea6-4e83-917c-40d5fa395876,Poly-T Enrichment,
+6352c47e-dedb-481e-9188-662fe105c6ab.rna_seq.genomic.gdc_realn.bam,07bd6e42-0d5f-4577-b213-70428352bc92,Poly-T Enrichment,
+6352c47e-dedb-481e-9188-662fe105c6ab.rna_seq.genomic.gdc_realn.bam,2f1521ba-6f63-4ea9-a338-6cab6d254a9b,Other,N/A
+78e39f82-75e8-40d3-9886-d9fe003852f6.rna_seq.genomic.gdc_realn.bam,0b84b367-4f2e-4da4-9d45-f048898c26f3,Poly-T Enrichment,
+78e39f82-75e8-40d3-9886-d9fe003852f6.rna_seq.genomic.gdc_realn.bam,a9f6fd50-6919-49f9-8192-d3198f05a9bf,Other,N/A
+c30ce77c-ba93-4751-ba4e-ed2b6aee1576.rna_seq.genomic.gdc_realn.bam,30ece0e5-99d4-40fa-9448-a79d4faccea7,Other,N/A
+c30ce77c-ba93-4751-ba4e-ed2b6aee1576.rna_seq.genomic.gdc_realn.bam,3bed2ad9-7c43-4e67-923a-601a95731be2,Poly-T Enrichment,
+a1cff0f6-de98-496b-b7e5-ba65ffa0bf73.rna_seq.genomic.gdc_realn.bam,a202736e-f020-4c8c-8a53-41c6657bb7e0,Poly-T Enrichment,
+a1cff0f6-de98-496b-b7e5-ba65ffa0bf73.rna_seq.genomic.gdc_realn.bam,d62a12f2-1ea6-4812-a479-21ef6a1f7ce8,Other,N/A
+e53e9934-4397-499e-9249-ddf0fac62e29.rna_seq.genomic.gdc_realn.bam,8427cae5-4395-40db-9ac0-c18738b92a99,Poly-T Enrichment,
+e53e9934-4397-499e-9249-ddf0fac62e29.rna_seq.genomic.gdc_realn.bam,cd321a2c-4ea6-4b58-b5ff-a73487d9501e,Other,N/A
+ce317194-953e-42f1-959e-98c0743bbe83.rna_seq.genomic.gdc_realn.bam,9a8fe13e-cd11-427a-9ef9-ea9290f3c4c2,Poly-T Enrichment,
+ce317194-953e-42f1-959e-98c0743bbe83.rna_seq.genomic.gdc_realn.bam,503507f6-b4df-4266-b941-658360f763a5,Other,N/A
+de300fb5-1cc2-48f4-8226-507b53271a3f.rna_seq.genomic.gdc_realn.bam,62e39737-274b-4c05-8626-1afa7d4a0e53,Other,N/A
+de300fb5-1cc2-48f4-8226-507b53271a3f.rna_seq.genomic.gdc_realn.bam,35917b87-2a52-43cd-bf3b-72ab45159531,Poly-T Enrichment,
+2d31f70e-fce9-4350-9d7a-b60074fdfc89.rna_seq.genomic.gdc_realn.bam,07a7b41e-4808-46a3-8f59-3eec5f5087e8,Other,N/A
+2d31f70e-fce9-4350-9d7a-b60074fdfc89.rna_seq.genomic.gdc_realn.bam,6edc2786-c5aa-431a-bb37-a2fdba48ba89,Poly-T Enrichment,
+486e308d-b72a-4829-bb0e-d90357ad730f.rna_seq.genomic.gdc_realn.bam,9abe4c9c-9353-412f-9772-6eade161180a,Other,N/A
+486e308d-b72a-4829-bb0e-d90357ad730f.rna_seq.genomic.gdc_realn.bam,8df1c0c5-76cb-4157-bb5b-32969507ccae,Poly-T Enrichment,
+418c3b15-b7f6-4354-b044-7f9f645b56e8.rna_seq.genomic.gdc_realn.bam,93ae26a1-d539-4f5f-a243-3501969ce288,Other,N/A
+418c3b15-b7f6-4354-b044-7f9f645b56e8.rna_seq.genomic.gdc_realn.bam,94dccdda-ae19-49ae-b379-90c86790a9fc,Poly-T Enrichment,
+519b55aa-b645-4c22-be55-291dd7b54b2d.rna_seq.genomic.gdc_realn.bam,7dc03be3-f649-477d-91d0-607e0d21953d,Other,N/A
+519b55aa-b645-4c22-be55-291dd7b54b2d.rna_seq.genomic.gdc_realn.bam,96ff6918-4094-4611-8f14-0d84106dae57,Poly-T Enrichment,
+05790ad8-00da-4ef7-acd9-df61136b0a78.rna_seq.genomic.gdc_realn.bam,749cc39f-9a23-4fa2-8d5a-450a8ffa25d5,Other,N/A
+05790ad8-00da-4ef7-acd9-df61136b0a78.rna_seq.genomic.gdc_realn.bam,af400841-cb8b-4e39-8503-ef9f6c3f8a20,Poly-T Enrichment,
+7e053999-679e-48dc-b310-5507e8923b52.rna_seq.genomic.gdc_realn.bam,1e220991-faa3-430d-8ddd-b76b6c9077a1,Poly-T Enrichment,
+7e053999-679e-48dc-b310-5507e8923b52.rna_seq.genomic.gdc_realn.bam,5e475961-aa60-4b2a-b121-49cdce068005,Other,N/A
+6061385a-7897-48a9-8c4b-355cc3713400.rna_seq.genomic.gdc_realn.bam,114c2273-8e6d-44de-8a08-907a35fdfd99,Poly-T Enrichment,
+6061385a-7897-48a9-8c4b-355cc3713400.rna_seq.genomic.gdc_realn.bam,e0b6bba7-a170-4752-888d-a8be711720e6,Other,N/A
+63a3b63e-87a3-48fa-b9cc-44324331ab0b.rna_seq.genomic.gdc_realn.bam,87ac6d34-2d61-4fef-93b9-1b7c311662e3,Other,N/A
+63a3b63e-87a3-48fa-b9cc-44324331ab0b.rna_seq.genomic.gdc_realn.bam,f39094b8-bfc1-4344-8ba9-2d7cd51f646b,Poly-T Enrichment,
+39dbddd6-3355-47fc-8e0c-84b9de1cc28b.rna_seq.genomic.gdc_realn.bam,8a63f1aa-f03e-48d7-8acf-8c74dab1afb4,Poly-T Enrichment,
+39dbddd6-3355-47fc-8e0c-84b9de1cc28b.rna_seq.genomic.gdc_realn.bam,51d22e38-d1dc-4e0c-80d3-b55a62175458,Other,N/A
+17a78aac-5c3d-4c19-9c25-5ba6e6c33bc7.rna_seq.genomic.gdc_realn.bam,75426910-4133-44bd-a6bb-cc4731befcaf,Poly-T Enrichment,
+cdf24d39-99e8-4ec1-900a-7fc0640e1eab.rna_seq.genomic.gdc_realn.bam,b676e490-68c2-49c4-84e6-ca84362085be,Other,N/A
+cdf24d39-99e8-4ec1-900a-7fc0640e1eab.rna_seq.genomic.gdc_realn.bam,be0d17eb-e508-4608-bce8-7079b3cb70f2,Poly-T Enrichment,
+35bee4ea-b6d1-456a-94d2-fbb8ee322078.rna_seq.genomic.gdc_realn.bam,3cb3db25-89df-4e9c-8b30-a6efdc7f6a5d,Other,N/A
+35bee4ea-b6d1-456a-94d2-fbb8ee322078.rna_seq.genomic.gdc_realn.bam,fd724757-7108-4c06-9aad-4676e8cd7155,Poly-T Enrichment,
+344bf22c-3371-450e-80bf-868b71951105.rna_seq.genomic.gdc_realn.bam,1c4569c3-32d2-4723-98ea-b1dc8502f6b7,Other,N/A
+344bf22c-3371-450e-80bf-868b71951105.rna_seq.genomic.gdc_realn.bam,3779952b-c260-48c4-a54c-ce04a8378722,Poly-T Enrichment,
+b7aa4c05-568f-4747-9ea3-c9fa4cdbeea9.rna_seq.genomic.gdc_realn.bam,ee6b621d-d920-479f-9bdc-4bbf727ffd3e,Poly-T Enrichment,
+b7aa4c05-568f-4747-9ea3-c9fa4cdbeea9.rna_seq.genomic.gdc_realn.bam,2718a709-7434-42e6-bebf-4a59af90c5e0,Other,N/A
+b74e798d-b02a-44e3-a562-965a01ce2034.rna_seq.genomic.gdc_realn.bam,b1a018c3-37cd-4171-b1b4-d03b7bb2a51f,Poly-T Enrichment,
+b74e798d-b02a-44e3-a562-965a01ce2034.rna_seq.genomic.gdc_realn.bam,a49c4cb7-bc20-44d2-a9da-39d45c90f0a2,Other,N/A
+721d4acc-6344-4956-b181-f2352bee2e0e.rna_seq.genomic.gdc_realn.bam,d72430b1-9b92-43bd-8af1-5278c15310e0,Poly-T Enrichment,
+721d4acc-6344-4956-b181-f2352bee2e0e.rna_seq.genomic.gdc_realn.bam,e0495aeb-37c0-4bc0-af78-5881bb171de7,Other,N/A
+653be795-af40-43b5-874f-c57f472381cc.rna_seq.genomic.gdc_realn.bam,12fbf0af-e6c0-410d-a027-7da44c95e9be,Poly-T Enrichment,
+653be795-af40-43b5-874f-c57f472381cc.rna_seq.genomic.gdc_realn.bam,5bd7a312-8b2e-43fc-81c3-df9c3b68aa59,Other,N/A
+1810c35f-a1be-42da-8cc3-17624d32e9f6.rna_seq.genomic.gdc_realn.bam,6daab683-5a04-473f-b43b-19aef2f10741,Poly-T Enrichment,
+1810c35f-a1be-42da-8cc3-17624d32e9f6.rna_seq.genomic.gdc_realn.bam,a6d16e52-d522-4b71-9806-fd7de58e4007,Other,N/A
+1baf79ea-443d-453a-b7df-c3d520466e26.rna_seq.genomic.gdc_realn.bam,565750a1-50c8-4a87-87c6-ee6006517a6c,Poly-T Enrichment,
+1baf79ea-443d-453a-b7df-c3d520466e26.rna_seq.genomic.gdc_realn.bam,cf001b0a-eee6-45a0-a867-ed4d64d16a6f,Other,N/A
+4dbfcf44-81c5-4619-8318-8793d99fe4aa.rna_seq.genomic.gdc_realn.bam,84df4c59-7069-4e2a-90d2-0709abf52583,Poly-T Enrichment,
+4dbfcf44-81c5-4619-8318-8793d99fe4aa.rna_seq.genomic.gdc_realn.bam,20ba1f40-f65f-4e66-b380-e967a745f119,Other,N/A
+9fed57f8-34f6-4726-8e69-8e48194663ad.rna_seq.genomic.gdc_realn.bam,10f04c21-1aa4-40a0-80f1-680799e0ae0c,Poly-T Enrichment,
+9fed57f8-34f6-4726-8e69-8e48194663ad.rna_seq.genomic.gdc_realn.bam,67037115-9a8b-4393-a085-8fbd9d983479,Other,N/A
+211c2d4f-cc22-4617-a1f8-0bf9338db990.rna_seq.genomic.gdc_realn.bam,60369a47-abab-4368-a0d1-4aad62c33381,Poly-T Enrichment,
+211c2d4f-cc22-4617-a1f8-0bf9338db990.rna_seq.genomic.gdc_realn.bam,26d9fde6-aed2-4fad-90ae-9a859cff3300,Other,N/A
+15d11cb0-928f-4ef5-b3c3-ab9e8991753d.rna_seq.genomic.gdc_realn.bam,cd60dd96-2bf2-46c1-85d7-f984493aebab,Poly-T Enrichment,
+15d11cb0-928f-4ef5-b3c3-ab9e8991753d.rna_seq.genomic.gdc_realn.bam,dc883f6d-ef24-48ee-8b53-a4c474c2a760,Other,N/A
+c2fa8317-cb42-4adb-a597-ee5176510b9d.rna_seq.genomic.gdc_realn.bam,88ba8172-1f2c-4530-806b-6f99baba8711,Poly-T Enrichment,
+c2fa8317-cb42-4adb-a597-ee5176510b9d.rna_seq.genomic.gdc_realn.bam,8cb4f915-0fc2-42e4-8628-2a092f147b36,Other,N/A
+d7b22af2-b49b-4ea3-9a6b-76974ed8482d.rna_seq.genomic.gdc_realn.bam,4160845d-30d6-4f5b-ba9b-6ab7dd373fad,Poly-T Enrichment,
+d7b22af2-b49b-4ea3-9a6b-76974ed8482d.rna_seq.genomic.gdc_realn.bam,4b4c1d63-4128-415a-b435-f361574c71f0,Other,N/A
+15216993-c048-4234-8981-02ebef70c40d.rna_seq.genomic.gdc_realn.bam,2978a758-bccd-4ee0-ae3b-15db6a75cc42,Poly-T Enrichment,
+15216993-c048-4234-8981-02ebef70c40d.rna_seq.genomic.gdc_realn.bam,ae902949-eba3-4441-a149-d981aaa95bf2,Other,N/A
+86272ea4-c83a-4023-8331-3d7ba02e13cc.rna_seq.genomic.gdc_realn.bam,fc0bfe54-3ecf-4204-af23-e16e64040ff1,Other,N/A
+86272ea4-c83a-4023-8331-3d7ba02e13cc.rna_seq.genomic.gdc_realn.bam,e3b14b02-22c6-4086-8cdc-2252294e4531,Poly-T Enrichment,
+e4ab0d64-9d7d-4a3c-b904-227ea0487f57.rna_seq.genomic.gdc_realn.bam,0a2e28c3-6abe-4da5-89f9-e3efadf9c556,Poly-T Enrichment,
+b6c628ea-959c-4439-9222-6af56666dd67.rna_seq.genomic.gdc_realn.bam,d4b4dbeb-aeec-4556-b9c9-05ba06f53253,Poly-T Enrichment,
+b6c628ea-959c-4439-9222-6af56666dd67.rna_seq.genomic.gdc_realn.bam,a55f3722-c1c2-4fd6-bef1-6d4ea166216b,Other,N/A
+0569acd2-7934-47e7-8d3f-201a74a19b54.rna_seq.genomic.gdc_realn.bam,1e5ae659-b3d2-4070-890a-4eee33c3dcbf,Other,N/A
+0569acd2-7934-47e7-8d3f-201a74a19b54.rna_seq.genomic.gdc_realn.bam,2b9c9c11-5f2d-40a9-b38c-95bad06495f4,Poly-T Enrichment,
+bf2017da-0eda-49f3-9f83-3f0f9b70bc5c.rna_seq.genomic.gdc_realn.bam,195d42fd-b41f-4013-8255-3db0d9d8266a,Other,N/A
+bf2017da-0eda-49f3-9f83-3f0f9b70bc5c.rna_seq.genomic.gdc_realn.bam,5ddd8c81-39c3-4899-aca1-b81514e97a96,Poly-T Enrichment,
+bf2017da-0eda-49f3-9f83-3f0f9b70bc5c.rna_seq.genomic.gdc_realn.bam,4309700f-f8f3-43b3-b42f-d899f56a4eb4,Other,N/A
+7162ed97-8f56-41ee-849a-4ebcd8d0b775.rna_seq.genomic.gdc_realn.bam,2084c4f6-63bb-4785-9200-45d751308826,Other,N/A
+7162ed97-8f56-41ee-849a-4ebcd8d0b775.rna_seq.genomic.gdc_realn.bam,310332b6-dcd5-4924-95ae-f4b595725f7d,Poly-T Enrichment,
+e30c9831-f037-49b8-a8d9-e0c38063ab37.rna_seq.genomic.gdc_realn.bam,27e83be3-8a58-42eb-9cbd-3102587afd52,Poly-T Enrichment,
+e30c9831-f037-49b8-a8d9-e0c38063ab37.rna_seq.genomic.gdc_realn.bam,7db0e5e7-c383-4d49-be59-fe3a6cfb4381,Other,N/A
+84f435ab-f41c-4705-92c4-16f48694a09b.rna_seq.genomic.gdc_realn.bam,cc108921-b504-459c-b08f-0f51c296e3b5,Other,N/A
+84f435ab-f41c-4705-92c4-16f48694a09b.rna_seq.genomic.gdc_realn.bam,4505d790-724c-4488-9ef1-682d9e8a0254,Poly-T Enrichment,
+ab7d8a73-dcd6-4e6c-8cc5-10cb4e2e6039.rna_seq.genomic.gdc_realn.bam,5e318dbb-b01d-4689-8020-63e013efc73d,Other,N/A
+ab7d8a73-dcd6-4e6c-8cc5-10cb4e2e6039.rna_seq.genomic.gdc_realn.bam,d20f3000-022d-4989-958e-fca5fbc93da2,Poly-T Enrichment,
+94aed038-cec3-4916-9f17-d6e6ff892810.rna_seq.genomic.gdc_realn.bam,3f935348-1966-41b0-9316-d477dabdb505,Other,N/A
+94aed038-cec3-4916-9f17-d6e6ff892810.rna_seq.genomic.gdc_realn.bam,e4ea7f9c-bc02-41f7-831f-f27ee9258c8a,Poly-T Enrichment,
+1306b45e-2874-4d57-891a-b8860cc86889.rna_seq.genomic.gdc_realn.bam,94f946aa-c88f-4971-a0f2-44e9c6fe2a87,Poly-T Enrichment,
+1306b45e-2874-4d57-891a-b8860cc86889.rna_seq.genomic.gdc_realn.bam,ade4a731-d0d0-4289-b7f0-daac0788f114,Other,N/A
+87f47ee2-c51d-417c-b7e0-7c3727a70b77.rna_seq.genomic.gdc_realn.bam,d400ab7b-d1f4-42de-bf42-d574ac46bd12,Other,N/A
+87f47ee2-c51d-417c-b7e0-7c3727a70b77.rna_seq.genomic.gdc_realn.bam,78a4584a-cdad-4c63-b605-b3e2b98ebd67,Poly-T Enrichment,
+21654c4d-0761-458f-8c4b-9e392f23658d.rna_seq.genomic.gdc_realn.bam,36f00f68-bea1-4f03-b131-1bb50c88d141,Poly-T Enrichment,
+21654c4d-0761-458f-8c4b-9e392f23658d.rna_seq.genomic.gdc_realn.bam,95689034-586e-4c62-9d26-08eb06717eef,Other,N/A
+39b8b57e-a82b-44d4-ae57-1661be5119b6.rna_seq.genomic.gdc_realn.bam,392e897a-dc45-4871-a560-8f24c7cc2e19,Other,N/A
+39b8b57e-a82b-44d4-ae57-1661be5119b6.rna_seq.genomic.gdc_realn.bam,0d850df6-a8d1-4b4c-85f2-9fa3de38df9d,Poly-T Enrichment,
+5c75138e-7728-4d64-862d-71591d54fcd7.rna_seq.genomic.gdc_realn.bam,8c833a2e-4f99-4766-befe-a60dd2afa3df,Other,N/A
+5c75138e-7728-4d64-862d-71591d54fcd7.rna_seq.genomic.gdc_realn.bam,016da853-e501-48da-ab02-5b8f45c4ad6f,Poly-T Enrichment,
+246ed8d0-d28c-4306-bc72-4f9236b5a4ee.rna_seq.genomic.gdc_realn.bam,97c01c63-88d5-4d5b-bbb1-cdf637e54b2a,Poly-T Enrichment,
+246ed8d0-d28c-4306-bc72-4f9236b5a4ee.rna_seq.genomic.gdc_realn.bam,bbcb129c-217a-41fd-9401-4bb3a2bef543,Other,N/A
+48511e7f-2410-40ce-903e-502ce0a6161a.rna_seq.genomic.gdc_realn.bam,5d3e1207-31e0-4c7b-9e29-66ba860221df,Other,N/A
+48511e7f-2410-40ce-903e-502ce0a6161a.rna_seq.genomic.gdc_realn.bam,d6d7a4b9-93f3-4092-9bea-e25fa89d51e9,Poly-T Enrichment,
+a67b2e08-6a66-4c3d-aafe-3de831f9c2ad.rna_seq.genomic.gdc_realn.bam,78b9cbc7-aabf-4297-b0bd-fe12f0300bb2,Other,N/A
+a67b2e08-6a66-4c3d-aafe-3de831f9c2ad.rna_seq.genomic.gdc_realn.bam,b81a0195-168c-4133-aa91-fb34bfcfa274,Poly-T Enrichment,
+31d1c626-5bf7-4da3-9256-93fdb624192b.rna_seq.genomic.gdc_realn.bam,ffc12fc8-abfa-4396-a66a-bb8de82c890f,Poly-T Enrichment,
+31d1c626-5bf7-4da3-9256-93fdb624192b.rna_seq.genomic.gdc_realn.bam,461d6654-a121-42af-af85-be19ed2c8850,Other,N/A
+66997007-7636-487f-a6b4-c5d52cb101e4.rna_seq.genomic.gdc_realn.bam,66fb0c24-1ef3-4e8b-a53d-f367dea4ca01,Poly-T Enrichment,
+66997007-7636-487f-a6b4-c5d52cb101e4.rna_seq.genomic.gdc_realn.bam,0355a9bb-5a77-4d61-bccf-9867cf99e33f,Other,N/A
+580da070-1758-447d-a572-6c2ed09a2343.rna_seq.genomic.gdc_realn.bam,f2837bef-8e7f-4d43-bd74-6f3c4eedcfec,Other,N/A
+580da070-1758-447d-a572-6c2ed09a2343.rna_seq.genomic.gdc_realn.bam,3000c893-8545-4cb1-8059-245f3a736776,Poly-T Enrichment,
+d4df0033-66b2-47ca-81f6-f2496be1fcd1.rna_seq.genomic.gdc_realn.bam,d355a316-c062-4eb2-ae30-237985caf8f6,Other,N/A
+d4df0033-66b2-47ca-81f6-f2496be1fcd1.rna_seq.genomic.gdc_realn.bam,69bf1591-1498-4946-a919-af654075a7a6,Poly-T Enrichment,
+3555f1d7-155f-4145-91b5-e1cd3082dca9.rna_seq.genomic.gdc_realn.bam,6d7148dd-caf9-42c4-8b40-b05e61d67eac,Poly-T Enrichment,
+3555f1d7-155f-4145-91b5-e1cd3082dca9.rna_seq.genomic.gdc_realn.bam,3680bcc5-5e16-4e0e-8dc9-b2fc884e0e98,Other,N/A
+88733232-2ad6-4f1e-aeaa-5143f289aabe.rna_seq.genomic.gdc_realn.bam,c159f53c-6821-4069-a4de-e70a584538b7,Other,N/A
+88733232-2ad6-4f1e-aeaa-5143f289aabe.rna_seq.genomic.gdc_realn.bam,100d2faa-07ed-4cf2-8d56-869afbbe9af8,Poly-T Enrichment,
+1e33c967-41d8-47fe-9434-e2ee82c180e8.rna_seq.genomic.gdc_realn.bam,f9ed9436-ca64-42fe-a5cd-bfe095d634be,Other,N/A
+1e33c967-41d8-47fe-9434-e2ee82c180e8.rna_seq.genomic.gdc_realn.bam,29bce99e-7117-4aab-836a-281502e03247,Poly-T Enrichment,
+70350736-0880-4777-9a68-a5c740a5e390.rna_seq.genomic.gdc_realn.bam,fb872f52-8f03-4a80-a863-13d6397c5576,Other,N/A
+70350736-0880-4777-9a68-a5c740a5e390.rna_seq.genomic.gdc_realn.bam,6bb0ba28-6576-4094-98b7-7a605ae2a29d,Poly-T Enrichment,
+c7a39e9b-ce36-4b8c-9bd2-7884d7719b9b.rna_seq.genomic.gdc_realn.bam,920c7a8f-134d-4a35-adac-c7daae6dcf96,Poly-T Enrichment,
+c7a39e9b-ce36-4b8c-9bd2-7884d7719b9b.rna_seq.genomic.gdc_realn.bam,b0126d2b-35d0-4eda-b26e-4789660d6c88,Other,N/A
+774e6f83-e7a5-4b86-b729-ab1f03e4d801.rna_seq.genomic.gdc_realn.bam,1ce9db45-926c-4a05-aefb-b6fbb098ae07,Other,N/A
+774e6f83-e7a5-4b86-b729-ab1f03e4d801.rna_seq.genomic.gdc_realn.bam,1cd56e93-44aa-4f95-99d2-72c02bf605fe,Poly-T Enrichment,
+b44ffeb2-2db5-41cc-9a6a-b83ce6ed5be3.rna_seq.genomic.gdc_realn.bam,954f070e-b552-4e2c-a295-db3e747beea7,Poly-T Enrichment,
+b44ffeb2-2db5-41cc-9a6a-b83ce6ed5be3.rna_seq.genomic.gdc_realn.bam,1bd4fa12-59e0-409a-a86c-8c02c3e73dac,Other,N/A
+8fdfcb64-991a-4bb3-bc68-7815818880b7.rna_seq.genomic.gdc_realn.bam,6d38f3d6-fdc5-45c8-a4f1-ca3bdc435494,Other,N/A
+8fdfcb64-991a-4bb3-bc68-7815818880b7.rna_seq.genomic.gdc_realn.bam,abb3cf5e-c7f5-4cb1-85a1-9a51ba598921,Poly-T Enrichment,
+5cec1812-c2a5-4f34-9bb0-f22b17c6e0b0.rna_seq.genomic.gdc_realn.bam,ac48eff8-466e-4e48-bb29-a0b44c5db74c,Poly-T Enrichment,
+5cec1812-c2a5-4f34-9bb0-f22b17c6e0b0.rna_seq.genomic.gdc_realn.bam,94919a81-f56c-43ec-b0a2-c3707c3122bf,Other,N/A
+a2f56843-c5a9-4043-9969-026731794bce.rna_seq.genomic.gdc_realn.bam,89012952-dc2b-42b4-94a0-8a7be0e43008,Poly-T Enrichment,
+a2f56843-c5a9-4043-9969-026731794bce.rna_seq.genomic.gdc_realn.bam,6448e8e0-b9f7-4a43-9c9f-cb4d05d8ed8c,Other,N/A
+7b130ef0-73a7-4f2d-8cb2-329ad144c9cd.rna_seq.genomic.gdc_realn.bam,30e62261-2b31-443e-8882-5ef467d70f4b,Other,N/A
+7b130ef0-73a7-4f2d-8cb2-329ad144c9cd.rna_seq.genomic.gdc_realn.bam,57c15eeb-a1f9-48de-bec9-36f3ebe698fe,Poly-T Enrichment,
+ed7b0b50-3928-4d15-b036-dbbb01b530e5.rna_seq.genomic.gdc_realn.bam,06b99014-fafd-4d22-8151-c88542255bcc,Other,N/A
+ed7b0b50-3928-4d15-b036-dbbb01b530e5.rna_seq.genomic.gdc_realn.bam,e3ff79e0-59e7-4c42-842c-bc00d9932d82,Poly-T Enrichment,
+c2e995fd-3b8b-43da-82b9-5f971ce0e166.rna_seq.genomic.gdc_realn.bam,79c90c40-3ade-4138-8052-49f5ce5a9dc6,Other,N/A
+c2e995fd-3b8b-43da-82b9-5f971ce0e166.rna_seq.genomic.gdc_realn.bam,88c8f861-9757-4a13-b498-fde28aabe06c,Poly-T Enrichment,
+5b546308-7ade-4424-b9f1-98f323ded64e.rna_seq.genomic.gdc_realn.bam,9001bfa6-a95e-47da-9644-11c01ea5c2f9,Other,N/A
+5b546308-7ade-4424-b9f1-98f323ded64e.rna_seq.genomic.gdc_realn.bam,09a3e6ac-48a9-49ce-807d-8a346aae2e2d,Poly-T Enrichment,
+471c9d40-07fc-4e56-ae34-421619993819.rna_seq.genomic.gdc_realn.bam,ee8fd0c2-d8d4-4e7f-a581-05fc2e426665,Poly-T Enrichment,
+471c9d40-07fc-4e56-ae34-421619993819.rna_seq.genomic.gdc_realn.bam,66e194b6-e98b-43bb-9942-3ec488b8b384,Other,N/A
+ef7bdca7-7327-4c23-a351-dd35a818c583.rna_seq.genomic.gdc_realn.bam,80b7aa81-0fba-4234-9a45-689951ba72c1,Other,N/A
+ef7bdca7-7327-4c23-a351-dd35a818c583.rna_seq.genomic.gdc_realn.bam,ab1b0363-de34-46e0-b30c-8e1427ebe32f,Poly-T Enrichment,
+2b6119d6-6afa-4b8b-8750-ff3513e3b5ae.rna_seq.genomic.gdc_realn.bam,79f10162-4498-4c68-8e23-43e0602b7643,Poly-T Enrichment,
+2b6119d6-6afa-4b8b-8750-ff3513e3b5ae.rna_seq.genomic.gdc_realn.bam,1b660c3f-8d88-41c0-bc64-0fc7c2784679,Other,N/A
+05ff8bb2-7a80-4cb3-9bda-9c575c81dbb4.rna_seq.genomic.gdc_realn.bam,03d492c0-0048-4648-8309-2341a2658afe,Poly-T Enrichment,
+05ff8bb2-7a80-4cb3-9bda-9c575c81dbb4.rna_seq.genomic.gdc_realn.bam,f1a9716a-e854-4823-bfff-fa1f6604b419,Other,N/A
+eb79566a-c8bf-4822-bdf4-7119952503d1.rna_seq.genomic.gdc_realn.bam,6553313e-5ef1-4f99-bbaa-a609234feb3e,Other,N/A
+eb79566a-c8bf-4822-bdf4-7119952503d1.rna_seq.genomic.gdc_realn.bam,a18b9be3-44d0-49fe-b205-a4318db8671a,Poly-T Enrichment,
+24295c8b-a21b-498a-bdf8-3f41a229a8d5.rna_seq.genomic.gdc_realn.bam,71d1cac4-97b2-4345-9d54-aa0aa8979c8c,Other,N/A
+24295c8b-a21b-498a-bdf8-3f41a229a8d5.rna_seq.genomic.gdc_realn.bam,e5176762-0b97-452b-81bf-2321063eaf44,Poly-T Enrichment,
+727feed5-9ea6-4769-b616-e148ca0f6e02.rna_seq.genomic.gdc_realn.bam,356265ed-0c90-4a8f-9772-aa7900ae234d,Poly-T Enrichment,
+727feed5-9ea6-4769-b616-e148ca0f6e02.rna_seq.genomic.gdc_realn.bam,a893cf5b-9b59-4226-a460-2da324899cae,Other,N/A
+c2f8982e-c47b-4b1b-b181-beab46a7158c.rna_seq.genomic.gdc_realn.bam,0b8b7cb4-08e5-4ddc-a68d-165fe5c33d92,Poly-T Enrichment,
+c2f8982e-c47b-4b1b-b181-beab46a7158c.rna_seq.genomic.gdc_realn.bam,e482cde9-1111-403a-a8ea-7966e48c52ab,Other,N/A
+c69c63e7-1f76-4294-bf55-7da39f2934d4.rna_seq.genomic.gdc_realn.bam,3850ab5d-4930-4ff4-9fc9-ed3a48df1747,Other,N/A
+c69c63e7-1f76-4294-bf55-7da39f2934d4.rna_seq.genomic.gdc_realn.bam,78d4bfd7-03d1-4ed7-8048-36c517ec33e8,Poly-T Enrichment,
+3eea3660-6071-49cb-b426-fceffbe8e37c.rna_seq.genomic.gdc_realn.bam,e01972ac-bd1b-4982-a446-75d07dc6e6b4,Other,N/A
+3eea3660-6071-49cb-b426-fceffbe8e37c.rna_seq.genomic.gdc_realn.bam,de815db0-4f1b-42f3-a569-1a4dcc352423,Other,
+8cf37547-4e88-4be1-948d-9f3659a6c90d.rna_seq.genomic.gdc_realn.bam,f253c520-cbec-45b9-bacc-cd33f084f1d7,Poly-T Enrichment,
+8cf37547-4e88-4be1-948d-9f3659a6c90d.rna_seq.genomic.gdc_realn.bam,cb5d124f-dc24-4085-b963-9776afaaca60,Other,N/A
+acb580cb-7c43-439c-a2c1-50391ff93e10.rna_seq.genomic.gdc_realn.bam,686a9523-5263-4981-a65e-1665722c85b3,Poly-T Enrichment,
+acb580cb-7c43-439c-a2c1-50391ff93e10.rna_seq.genomic.gdc_realn.bam,9cc46c10-a16f-4efb-a466-9a3bebc91585,Other,N/A
+c06c1843-67b7-481a-b80d-17712fd8e1f0.rna_seq.genomic.gdc_realn.bam,97feaf2d-fd72-4f0f-bd95-810bd3926844,Other,N/A
+c06c1843-67b7-481a-b80d-17712fd8e1f0.rna_seq.genomic.gdc_realn.bam,5adead8b-8311-48a7-9a24-78d536134ccc,Poly-T Enrichment,
+ce5e176c-554a-4c4d-b0bd-ae4bcb4be143.rna_seq.genomic.gdc_realn.bam,ceef004a-2036-458b-b9fe-b2cff8e0f8d1,Other,N/A
+ce5e176c-554a-4c4d-b0bd-ae4bcb4be143.rna_seq.genomic.gdc_realn.bam,f4e6ed32-f872-4779-925d-993ff8530196,Poly-T Enrichment,
+6fa4aab7-7d56-4329-baf5-25593968cf38.rna_seq.genomic.gdc_realn.bam,dd13ddaf-1b45-402a-a79b-bb4bed88aec3,Poly-T Enrichment,
+6fa4aab7-7d56-4329-baf5-25593968cf38.rna_seq.genomic.gdc_realn.bam,87a60ec3-945d-4d25-973e-0fe3d82a7d8b,Other,N/A
+a766ee89-7ec8-4f53-b01a-43da3c904495.rna_seq.genomic.gdc_realn.bam,6943b342-e63d-4d1b-b660-fb5213ebedd6,Other,N/A
+a766ee89-7ec8-4f53-b01a-43da3c904495.rna_seq.genomic.gdc_realn.bam,ea3b71ac-8e60-48b5-b582-30cc1850be18,Poly-T Enrichment,
+635ce8d2-9653-4e56-8e5e-5ccb46da7a33.rna_seq.genomic.gdc_realn.bam,1030d7f3-4b09-4449-b269-9a68dad966a3,Other,N/A
+635ce8d2-9653-4e56-8e5e-5ccb46da7a33.rna_seq.genomic.gdc_realn.bam,09ea580a-bc00-44a6-8be9-efd1493b0611,Poly-T Enrichment,
+be9e0632-bfab-4f23-bc63-70c8e7060669.rna_seq.genomic.gdc_realn.bam,1386898b-70cd-4ad4-98c7-69f15ca01300,Other,N/A
+be9e0632-bfab-4f23-bc63-70c8e7060669.rna_seq.genomic.gdc_realn.bam,14ce1c07-cedb-4e57-b10a-96ea6b79dc54,Poly-T Enrichment,
+63abbccc-1e80-4b6c-8ce8-2722444f5570.rna_seq.genomic.gdc_realn.bam,6bc8cf12-9699-4f49-be0b-b12f490cfe3f,Other,N/A
+63abbccc-1e80-4b6c-8ce8-2722444f5570.rna_seq.genomic.gdc_realn.bam,a5a3343f-ace0-4163-b7e7-2d9fb21e6a15,Poly-T Enrichment,
+bba65b2d-f372-4607-be61-227bf3904335.rna_seq.genomic.gdc_realn.bam,45944bc5-54e8-4265-a660-eff75371f9b4,Poly-T Enrichment,
+bba65b2d-f372-4607-be61-227bf3904335.rna_seq.genomic.gdc_realn.bam,5f18eee9-3f96-4ecc-b25f-07129af48bfe,Other,N/A
+9ff30693-52cf-4125-a9cd-65900ef2d018.rna_seq.genomic.gdc_realn.bam,95ab81ff-2ff3-4772-9ed5-738e532797d2,Poly-T Enrichment,
+9ff30693-52cf-4125-a9cd-65900ef2d018.rna_seq.genomic.gdc_realn.bam,8b694521-a3b1-4a95-a268-da9550e36427,Other,N/A
+98e8a1f3-2622-4603-afca-fb9e81243a32.rna_seq.genomic.gdc_realn.bam,d0961542-c3e9-4124-8078-304149166a6e,Other,N/A
+98e8a1f3-2622-4603-afca-fb9e81243a32.rna_seq.genomic.gdc_realn.bam,e49b8be0-764c-484c-8e0b-e8c94c700c99,Poly-T Enrichment,
+98e8a1f3-2622-4603-afca-fb9e81243a32.rna_seq.genomic.gdc_realn.bam,895e0c72-01f8-4a01-a909-d6c1156927d5,Other,N/A
+8761d55f-706a-4180-a535-42b64bef36ec.rna_seq.genomic.gdc_realn.bam,960801c4-3c6c-42a2-9f2a-979126e395bd,Poly-T Enrichment,
+382e7f84-399c-4dfb-977a-1ddc1c66b22d.rna_seq.genomic.gdc_realn.bam,842d8c29-41e1-4307-b499-5f3c2ba7b25f,Poly-T Enrichment,
+382e7f84-399c-4dfb-977a-1ddc1c66b22d.rna_seq.genomic.gdc_realn.bam,27eb0475-7788-47ac-a84f-b646b81d8adf,Other,N/A
+3aacbf4d-3ead-4e32-83c6-aabc4797e377.rna_seq.genomic.gdc_realn.bam,f241f066-5c45-44ee-933b-b79052ed6849,Poly-T Enrichment,
+3aacbf4d-3ead-4e32-83c6-aabc4797e377.rna_seq.genomic.gdc_realn.bam,1c209b79-f05b-4ceb-aaae-d6d0551fe167,Other,N/A
+2e01d4cd-527d-4335-a8cc-c434defc8a3f.rna_seq.genomic.gdc_realn.bam,514361d7-b2a7-4459-985c-e97b2e123e93,Poly-T Enrichment,
+2e01d4cd-527d-4335-a8cc-c434defc8a3f.rna_seq.genomic.gdc_realn.bam,44f5ee64-ac9a-4b7b-b074-f313ccf2e1f4,Other,N/A
+2e01d4cd-527d-4335-a8cc-c434defc8a3f.rna_seq.genomic.gdc_realn.bam,ba4342ce-8a26-4cce-b07c-cc2fa3a8887c,Other,N/A
+8b397736-190e-410f-9a42-27984ec919ba.rna_seq.genomic.gdc_realn.bam,36e91e25-e33a-449d-8964-d65652899c0b,Poly-T Enrichment,
+05b91997-5a17-4a37-b47f-f925aa166d59.rna_seq.genomic.gdc_realn.bam,751c7b84-437f-407e-bd08-1a66185cca56,Other,N/A
+05b91997-5a17-4a37-b47f-f925aa166d59.rna_seq.genomic.gdc_realn.bam,d8367b82-b2a9-447e-80cb-e7f9528cfdeb,Poly-T Enrichment,
+5b81a343-7c28-46be-903b-9b2b068d350e.rna_seq.genomic.gdc_realn.bam,e0afd456-0fb7-4c07-b1e7-e36fac3fda91,Other,N/A
+5b81a343-7c28-46be-903b-9b2b068d350e.rna_seq.genomic.gdc_realn.bam,f5fc3343-ed96-43ef-8d3b-c615d4bd1149,Poly-T Enrichment,
+8bb105ca-3ed0-4bd6-86f3-f870d262c145.rna_seq.genomic.gdc_realn.bam,0d9552a2-0749-44c3-b8ef-ad3c0a242443,Poly-T Enrichment,
+8bb105ca-3ed0-4bd6-86f3-f870d262c145.rna_seq.genomic.gdc_realn.bam,0d6316e8-ebe8-4ef5-86c3-75a8a9fba291,Other,N/A
+475ca708-8d3f-462c-a483-15235d503dac.rna_seq.genomic.gdc_realn.bam,b3fe163e-2bcd-4269-9407-aba78b835897,Poly-T Enrichment,
+475ca708-8d3f-462c-a483-15235d503dac.rna_seq.genomic.gdc_realn.bam,27a859ca-3013-464f-9567-565e924fdedc,Other,N/A
+9f7c0fbb-d002-442f-914c-9db933f3f86b.rna_seq.genomic.gdc_realn.bam,45e9f2b1-1c2c-428d-a806-e8f3e86782bd,Other,N/A
+9f7c0fbb-d002-442f-914c-9db933f3f86b.rna_seq.genomic.gdc_realn.bam,3cc80cca-a719-4c12-bf9b-5a4e5fa826ae,Poly-T Enrichment,
+784180a3-334c-404c-bbde-15d4928c5c0e.rna_seq.genomic.gdc_realn.bam,fc1dfab5-346b-4e70-9e3c-95b5e7587c62,Other,N/A
+784180a3-334c-404c-bbde-15d4928c5c0e.rna_seq.genomic.gdc_realn.bam,8cfe4b17-216c-4275-9e37-824c4ecfa70a,Poly-T Enrichment,
+1425e792-2e02-4ca6-a76f-9311efb301f9.rna_seq.genomic.gdc_realn.bam,39b10926-d1df-4875-8238-99e5666b4510,Poly-T Enrichment,
+1425e792-2e02-4ca6-a76f-9311efb301f9.rna_seq.genomic.gdc_realn.bam,75557e42-b520-477c-82aa-3e52b0e0d5ad,Other,N/A
+ad601a5c-0b18-4535-a922-37b67e7f989c.rna_seq.genomic.gdc_realn.bam,f6b065f3-0cef-4bbf-bb66-c373dfdcd645,Poly-T Enrichment,
+3d11f804-7d91-41ef-9feb-280cd3f70432.rna_seq.genomic.gdc_realn.bam,264fbf8a-aa3c-4a23-a7e6-a32338a37e59,Poly-T Enrichment,
+3d11f804-7d91-41ef-9feb-280cd3f70432.rna_seq.genomic.gdc_realn.bam,3a074dd4-ea2f-49d9-a81a-c1f7683ff39a,Other,N/A
+0e2b6b82-8dc9-40c1-a564-497d04877a10.rna_seq.genomic.gdc_realn.bam,c2c20abf-e2b3-44a4-8c6f-914572622ec0,Other,N/A
+0e2b6b82-8dc9-40c1-a564-497d04877a10.rna_seq.genomic.gdc_realn.bam,ae1412f3-ba92-4449-b4c1-4e8f61ece8b3,Poly-T Enrichment,
+7d1ff7c5-7914-45bd-8acd-575e4a0379fb.rna_seq.genomic.gdc_realn.bam,bdab05a7-c1ca-487f-bd82-5d0bce4d77e5,Poly-T Enrichment,
+7d1ff7c5-7914-45bd-8acd-575e4a0379fb.rna_seq.genomic.gdc_realn.bam,86f846af-14e1-487b-b5d3-8b365d03f606,Other,N/A
+2e437a60-c6df-407d-9f8f-c8b418434821.rna_seq.genomic.gdc_realn.bam,6215c7dc-73a7-4d50-82c0-ca6ed4f193fe,Poly-T Enrichment,
+cd1d2bf3-da4e-464e-b5c4-4df45865525b.rna_seq.genomic.gdc_realn.bam,97a55a31-a05a-4541-a5fe-553f8791a5ed,Other,N/A
+cd1d2bf3-da4e-464e-b5c4-4df45865525b.rna_seq.genomic.gdc_realn.bam,251c846a-6525-4118-a8ab-2c1972984e6d,Poly-T Enrichment,
+59189f65-6c80-4e57-a849-8e9381c03ab8.rna_seq.genomic.gdc_realn.bam,7c8c6576-9e94-438f-867e-9d0db681b313,Poly-T Enrichment,
+59189f65-6c80-4e57-a849-8e9381c03ab8.rna_seq.genomic.gdc_realn.bam,13d34127-4c88-464a-92ea-6d5203d09870,Other,N/A
+f46532ff-fa94-400e-9828-1c6eb6246688.rna_seq.genomic.gdc_realn.bam,b579a648-f534-40b7-9916-c43a098fbf4f,Poly-T Enrichment,
+f46532ff-fa94-400e-9828-1c6eb6246688.rna_seq.genomic.gdc_realn.bam,56dbe164-c3b1-4bbe-af3d-ead1448484e2,Other,N/A
+f46532ff-fa94-400e-9828-1c6eb6246688.rna_seq.genomic.gdc_realn.bam,737aa66d-bee6-4ea3-8a10-50459c85fc19,Other,N/A
+f861b72d-0b68-46e1-9ce0-56f84226f18e.rna_seq.genomic.gdc_realn.bam,9463e1c0-67dc-40eb-a163-68474af208d0,Poly-T Enrichment,
+f861b72d-0b68-46e1-9ce0-56f84226f18e.rna_seq.genomic.gdc_realn.bam,cdf015b4-8057-4805-a886-b678d1707062,Other,N/A
+1e01daec-2646-4dea-ac20-f0c0f748e607.rna_seq.genomic.gdc_realn.bam,033429d3-4e7f-45e1-b601-2e8f2fc0deef,Poly-T Enrichment,
+1e01daec-2646-4dea-ac20-f0c0f748e607.rna_seq.genomic.gdc_realn.bam,02b92184-7a74-46bf-9e08-7e5e6e7b1067,Other,N/A
+d3b4c71f-7716-4135-8298-e9087f2d9ddb.rna_seq.genomic.gdc_realn.bam,53ddad12-9df3-4096-b414-3d33a62583d9,Poly-T Enrichment,
+d3b4c71f-7716-4135-8298-e9087f2d9ddb.rna_seq.genomic.gdc_realn.bam,de4c973c-6b9a-4247-8f2b-a6acebeb8ff2,Other,N/A
+61019c48-8ef4-443e-8b36-369daecb6ee4.rna_seq.genomic.gdc_realn.bam,c65f3087-bc03-43bb-a494-3f99a8730511,Poly-T Enrichment,
+61019c48-8ef4-443e-8b36-369daecb6ee4.rna_seq.genomic.gdc_realn.bam,00eb3099-9bff-4bfa-8a7f-108c61312e4c,Other,N/A
+302b307b-1c02-46a4-ab3f-83ed50f0424a.rna_seq.genomic.gdc_realn.bam,fbc1e769-9aef-489c-9c22-39d521f1e253,Poly-T Enrichment,
+302b307b-1c02-46a4-ab3f-83ed50f0424a.rna_seq.genomic.gdc_realn.bam,d15181ad-37a3-40c2-a1ab-e0dd394fd882,Other,N/A
+cf65b266-edea-47d6-ae9e-71dc60bf7cce.rna_seq.genomic.gdc_realn.bam,bcc4bb17-d25c-443b-aae0-3fb0e0079499,Poly-T Enrichment,
+cf65b266-edea-47d6-ae9e-71dc60bf7cce.rna_seq.genomic.gdc_realn.bam,23498fea-7bfa-4fb6-8640-e5771da49af2,Other,N/A
+668a241b-aa1a-45e9-ba81-950c9523688a.rna_seq.genomic.gdc_realn.bam,63333a15-face-4f54-bc34-6831ce9ae292,Poly-T Enrichment,
+668a241b-aa1a-45e9-ba81-950c9523688a.rna_seq.genomic.gdc_realn.bam,61e3a912-56ce-4f67-9dcf-b6565809c5bb,Other,N/A
+25916327-1f64-4ee9-8d1c-0c15ba34e84a.rna_seq.genomic.gdc_realn.bam,5d9c5acb-bb0a-4035-98c8-d502aa1e9cf0,Other,N/A
+25916327-1f64-4ee9-8d1c-0c15ba34e84a.rna_seq.genomic.gdc_realn.bam,92dcec3c-9ca2-451e-89c5-2a247ccd76dd,Poly-T Enrichment,
+f4db33ab-4bfc-4fbc-a271-ab3be26d413c.rna_seq.genomic.gdc_realn.bam,730e6772-800b-4ee7-bbfd-dfbbe6e8c693,Poly-T Enrichment,
+f4db33ab-4bfc-4fbc-a271-ab3be26d413c.rna_seq.genomic.gdc_realn.bam,496718ed-c5a4-49d7-8d2b-5207901992cd,Other,N/A
+371f6839-724c-4b5b-a5a7-5e453bdd1a8e.rna_seq.genomic.gdc_realn.bam,b2de7a5c-2ecb-41b1-9c4c-d2963d5ca96f,Poly-T Enrichment,
+2d5a8608-f032-4591-be2d-27cf6f051d70.rna_seq.genomic.gdc_realn.bam,88c608c5-73fd-42e0-901f-6cacf994e652,Poly-T Enrichment,
+2d5a8608-f032-4591-be2d-27cf6f051d70.rna_seq.genomic.gdc_realn.bam,8e140d9f-2318-4eb8-b05c-c4d233071977,Other,N/A
+4d122d42-d300-456e-9b5d-48a8fecc6959.rna_seq.genomic.gdc_realn.bam,e35c2614-f3cf-4ab6-aea9-2feba44fea68,Poly-T Enrichment,
+4d122d42-d300-456e-9b5d-48a8fecc6959.rna_seq.genomic.gdc_realn.bam,0187f6fb-8abb-4e23-a4fa-484a898afad8,Other,N/A
+319e8aaa-4834-4962-b2e3-dd670f1c9722.rna_seq.genomic.gdc_realn.bam,4a6e4410-304e-4e39-b881-c370e8620cea,Other,N/A
+319e8aaa-4834-4962-b2e3-dd670f1c9722.rna_seq.genomic.gdc_realn.bam,11d915fd-d298-4b02-a082-4b7a4b328cdc,Poly-T Enrichment,
+180f0361-9d35-4610-aae2-87e15a6c0975.rna_seq.genomic.gdc_realn.bam,eebfc7e7-cf1d-414e-8256-c8ccbe8c5794,Poly-T Enrichment,
+180f0361-9d35-4610-aae2-87e15a6c0975.rna_seq.genomic.gdc_realn.bam,1a8d6f9b-f2d6-4839-bfd4-08361f9292ee,Other,N/A
+77ba7f95-d783-4e7b-a6d7-b3331e8eacae.rna_seq.genomic.gdc_realn.bam,44f56d02-ea66-417d-a2ed-164744108557,Other,N/A
+77ba7f95-d783-4e7b-a6d7-b3331e8eacae.rna_seq.genomic.gdc_realn.bam,6b34307d-47e3-4ab8-afb7-822da3d61413,Poly-T Enrichment,
+63c6aecb-ed8b-4798-8aae-ede25646597e.rna_seq.genomic.gdc_realn.bam,972e28a3-1e06-4d59-91bd-0f13a55c6c65,Poly-T Enrichment,
+63c6aecb-ed8b-4798-8aae-ede25646597e.rna_seq.genomic.gdc_realn.bam,1eeec108-e3c3-4903-8048-98c83cfad769,Other,N/A
+d31e0069-8cc8-4ca5-8831-0c01c4f378c0.rna_seq.genomic.gdc_realn.bam,e0be4e90-60ff-4603-86e6-1bc91b480d6d,Other,N/A
+d31e0069-8cc8-4ca5-8831-0c01c4f378c0.rna_seq.genomic.gdc_realn.bam,0766b147-08f8-4eb7-a414-993a9f5cca0c,Poly-T Enrichment,
+ccf635e1-3af9-4e85-a1f3-ff81f494ce93.rna_seq.genomic.gdc_realn.bam,35da85e4-7175-4103-b882-4bd1d3f9b8d4,Poly-T Enrichment,
+ccf635e1-3af9-4e85-a1f3-ff81f494ce93.rna_seq.genomic.gdc_realn.bam,4ede9f0b-fb6c-4a7d-8beb-79398e7bae86,Other,N/A
+25a7bd49-7088-43ab-9f00-ee78b26fb788.rna_seq.genomic.gdc_realn.bam,1ddac393-4928-4905-920d-2ee885e319db,Other,N/A
+25a7bd49-7088-43ab-9f00-ee78b26fb788.rna_seq.genomic.gdc_realn.bam,c2d5a224-d366-4062-b746-ce9153e83a64,Poly-T Enrichment,
+d0971ba6-acbf-4893-bf3b-388b19416878.rna_seq.genomic.gdc_realn.bam,80ce86cd-6b17-433c-8ced-8ba11591bc3b,Poly-T Enrichment,
+d0971ba6-acbf-4893-bf3b-388b19416878.rna_seq.genomic.gdc_realn.bam,7bccf84b-09b9-48d2-9409-89caf2e97968,Other,N/A
+9bc15200-9cbd-428b-8de0-e2b77a6982ff.rna_seq.genomic.gdc_realn.bam,3c3442dc-4458-472d-953e-6484e563b68f,Other,N/A
+9bc15200-9cbd-428b-8de0-e2b77a6982ff.rna_seq.genomic.gdc_realn.bam,a42ca6e5-907f-4500-92bd-ef26dde97834,Poly-T Enrichment,
+c3aa8326-8270-4712-810a-8b2923be5e7e.rna_seq.genomic.gdc_realn.bam,b149c3ba-9443-4d9c-bd3c-f5d86c375072,Poly-T Enrichment,
+c3aa8326-8270-4712-810a-8b2923be5e7e.rna_seq.genomic.gdc_realn.bam,9a66e2cb-2eff-4358-a6f3-f7ba78352c04,Other,N/A
+1accf9a8-469b-4ea0-8523-929bc9d92631.rna_seq.genomic.gdc_realn.bam,7938cd51-bb5a-49e2-a905-dbe337cc6bf3,Poly-T Enrichment,
+1accf9a8-469b-4ea0-8523-929bc9d92631.rna_seq.genomic.gdc_realn.bam,00b26976-cfd8-470e-be61-c93a2f24349b,Other,N/A
+71bfc216-6035-439c-b925-cc040a2ca19e.rna_seq.genomic.gdc_realn.bam,35a0590e-0e00-42d7-bdd2-2ca874722649,Other,N/A
+71bfc216-6035-439c-b925-cc040a2ca19e.rna_seq.genomic.gdc_realn.bam,1958fb63-180f-4d24-b83b-ca873437dfe3,Poly-T Enrichment,
+2fe3f9ed-8fd3-417c-a77f-c16a9ffa169b.rna_seq.genomic.gdc_realn.bam,d22d1979-4e25-47b7-a0bc-87ac9a42b311,Other,N/A
+2fe3f9ed-8fd3-417c-a77f-c16a9ffa169b.rna_seq.genomic.gdc_realn.bam,ecff5354-b8b2-4c73-ba14-bb34849bc60f,Poly-T Enrichment,
+1fa25b98-8ddf-403b-9b71-031b1adf7c3f.rna_seq.genomic.gdc_realn.bam,a36f438f-9e5f-4f1c-a044-f50bb7a61c4b,Other,N/A
+1fa25b98-8ddf-403b-9b71-031b1adf7c3f.rna_seq.genomic.gdc_realn.bam,e2853379-40a2-40d2-8f1b-14efac59c262,Poly-T Enrichment,
+2e4e5497-8407-4bd8-bf98-850aa0c433c3.rna_seq.genomic.gdc_realn.bam,e6f83416-5493-48a8-b006-dd9b734ce6be,Other,N/A
+2e4e5497-8407-4bd8-bf98-850aa0c433c3.rna_seq.genomic.gdc_realn.bam,6689b1b9-4e5b-4463-be87-423f9abff3fc,Poly-T Enrichment,
+395374c5-dbda-434c-bde9-b9de0909731f.rna_seq.genomic.gdc_realn.bam,386daa92-d75b-4c74-9d5d-72e4a88fb971,Poly-T Enrichment,
+395374c5-dbda-434c-bde9-b9de0909731f.rna_seq.genomic.gdc_realn.bam,d29776f4-b450-4a2a-a7c7-0a616ce848e1,Other,N/A
+ff6ebcd0-18b3-4334-aee2-187f41068eb9.rna_seq.genomic.gdc_realn.bam,44beaf93-11a3-4b16-9fed-5ce2def69f6b,Other,N/A
+ff6ebcd0-18b3-4334-aee2-187f41068eb9.rna_seq.genomic.gdc_realn.bam,86a58970-81c4-46a8-8d46-d4bbd84fa517,Poly-T Enrichment,
+89d1d838-3d20-4983-b4ef-996f96ccf88a.rna_seq.genomic.gdc_realn.bam,af6a764c-d997-4a17-bfd9-0fa1486ce22d,Other,N/A
+89d1d838-3d20-4983-b4ef-996f96ccf88a.rna_seq.genomic.gdc_realn.bam,638c2c0a-4f88-4a25-8191-2d857edb353b,Poly-T Enrichment,
+39b8cc57-059d-433d-a22a-dc450104c78f.rna_seq.genomic.gdc_realn.bam,09c9dc73-50ad-435c-a80a-25c397af7e91,Poly-T Enrichment,
+39b8cc57-059d-433d-a22a-dc450104c78f.rna_seq.genomic.gdc_realn.bam,dbc5e659-e779-4179-a9b6-6e5c8185bf04,Other,N/A

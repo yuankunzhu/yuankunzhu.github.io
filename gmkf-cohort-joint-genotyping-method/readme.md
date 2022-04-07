@@ -38,6 +38,17 @@ Because of the large number of files, we suggest to split them into multiple pro
 api.projects.create(name="My new project", billing_group='296a98a9-424c-43f3-aec5-306e0e41c799')
 ```
 
+- Managing File
+```python
+# query all files
+file_list = api.files.query(project='user/my-project')
+
+# Copy a file between projects
+new_file = my_file.copy(project='user/my-other-project', name='my-new-file')
+```
+
+
+
 - Run task
 ```python
 Single task
